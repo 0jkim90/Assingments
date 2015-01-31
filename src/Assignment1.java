@@ -4,6 +4,7 @@
 //money can only be inserted until user enters "0" during the transaction
 //returns correct amount of change
 //let user know about insufficient amount if applicable
+
 import java.util.Scanner;
 public class Assignment1 {
 

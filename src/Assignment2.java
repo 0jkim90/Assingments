@@ -3,6 +3,7 @@
 // 	60mph = 60 miles per 60 minutes, so 5 miles per five minute
 // 	(x, y) x++ indicates east and x--, west and y++ indicates north and y--, south
 //	distance equals square root of x^2 + y^2
+
 import java.util.Random;
 import java.util.Scanner;
 
